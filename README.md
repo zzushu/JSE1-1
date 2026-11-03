@@ -23,6 +23,19 @@
 - [ ] GitHub 업로드
 
 ## 4. 검증 방법
+- 실행한 명령어: pwd
+- 확인한 결과:
+Path
+----
+C:\Windows\system32
+
+- 실행한 명령어: docker --version
+- 확인한 결과: Docker version 29.9.2, build a82e528
+
+- 실행한 명령어:
+- 확인한 결과:
+- 결과 링크:
+
 - 실행한 명령어:
 - 확인한 결과:
 - 결과 링크:
