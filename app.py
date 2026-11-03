@@ -8,7 +8,7 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     # 브라우저에 보여줄 문장
-    return "여기는 나의 개발자용 작업실입니다!"
+    return "<h1>수정 후 확인</h1>"
 
 # 이 파일을 직접 실행할 때 웹서버를 켠다
 if __name__ == "__main__":
